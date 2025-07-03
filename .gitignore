@@ -1,0 +1,67 @@
+# Ignorar el entorno virtual
+entorno/
+env/
+.venv/
+requirements.txt
+ 
+# Ignorar archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+ 
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+ 
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+ 
+# Ignorar archivos de logs
+*.log
+ 
+# Ignorar archivos de bases de datos locales
+*.sqlite3
+ 
+# Ignorar archivos de configuraciones personales
+*.env
+ 
+# Ignorar archivos de distribución de Python
+dist/
+build/
+*.egg-info/
+.eggs/
+ 
+# Ignorar archivos temporales
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+ 
+# Ignorar archivos generados por pruebas
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+ 
+# Ignorar archivos de empaquetado
+*.gem
+*.tar.gz
+*.zip
+*.tar.bz2
+*.whl
+*.wheel
+ 
+# Ignorar configuraciones específicas del sistema operativo
+# Para Windows:
+*.stackdump
+ 
+# Para macOS:
+.AppleDouble
+.LSOverride
