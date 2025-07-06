@@ -96,7 +96,7 @@ body, h1, h2, h3, h4, h5, h6, div, p, ul, li {
     height: 32px;
 }
 </style>
-<a href="https://wa.me/34630318586" class="floating-whatsapp" target="_blank">
+<a href="https://wa.me/34695605067" class="floating-whatsapp" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp"/>
 </a>
 """, unsafe_allow_html=True)
@@ -218,7 +218,7 @@ def mostrar_tarjetas(productos, columnas=3):
                 img64 = imagen_a_base64(imagen)
                 with cols[j]:
                     # Número de WhatsApp al que deben contactar
-                    numero_whatsapp = "34630318586"
+                    numero_whatsapp = "34695605067"
 
                     mensaje = f"Hola, quiero encargar la tarta {p['name']}. ¿Podrías darme más información?"
                     mensaje_codificado = urllib.parse.quote(mensaje)
@@ -246,7 +246,7 @@ def mostrar_tarjetas_dulces(dulces):
 
             mensaje = f"Hola, estoy interesado en el dulce tradicional: {dulce['name']}. ¿Me podrías dar más información sobre precios y disponibilidad?"
             mensaje_codificado = urllib.parse.quote(mensaje)
-            link_whatsapp = f"https://wa.me/34630318586?text={mensaje_codificado}"
+            link_whatsapp = f"https://wa.me/34695605067?text={mensaje_codificado}"
 
             st.markdown(f"""
                 <div class="product-card">
@@ -493,7 +493,7 @@ elif pagina == "Tartas de la Semana":
                         <div class="product-name">{tarta['nombre']}</div>
                         <div class="product-desc">{tarta['desc']}</div>
                         <div class="product-price">Precio por trozo: 3 €</div>
-                        <a href="https://wa.me/34630318586?text=Hola,%20quiero%20encargar%20la%20{urllib.parse.quote(tarta['nombre'])}" target="_blank" class="buy-button">Encargar por WhatsApp</a>
+                        <a href="https://wa.me/34695605067?text=Hola,%20quiero%20encargar%20la%20{urllib.parse.quote(tarta['nombre'])}" target="_blank" class="buy-button">Encargar por WhatsApp</a>
                     </div>
                 """, unsafe_allow_html=True)
 
