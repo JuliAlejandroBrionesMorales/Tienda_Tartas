@@ -38,7 +38,7 @@ def add_bg_from_local(image_file):
         """,
         unsafe_allow_html=True
     )
-add_bg_from_local(r"Imag\2_Fondo_supiro_limeño.jpg")  
+add_bg_from_local(r"Imag/2_Fondo_supiro_limeño.jpg")  
 
 
 # --------------------- PERSONALIZACIÓN DE PÁGINA y BOTÓN FLOTANTE ---------------------
@@ -341,7 +341,7 @@ elif pagina == "Pasteles y Tortas":
         {
             "name": "Tarta de Manzana",
             "desc": "Deliciosa tarta con manzanas frescas y canela.",
-            "image": "Imag\8_Tarta de manzana.jpg",
+            "image": "Imag/8_Tarta de manzana.jpg",
             "precios": {"pequeña": 32, "mediana": 42, "grande": 58}
         },
         {
@@ -392,7 +392,7 @@ elif pagina == "Nuestros Pies":
         {
             "name": "Pie de Limón",
             "desc": "Base crujiente de galleta con un relleno cremoso y ácido de limón, cubierto con merengue flameado.",
-            "image": "Imag\9_Pie de Limon.jpg",
+            "image": "Imag/9_Pie de Limon.jpg",
             "precios": {"pequeña": 32, "mediana": 42, "grande": 58}
         },
         {
@@ -463,7 +463,7 @@ elif pagina == "Tartas de la Semana":
         {
             "nombre": "Pie de Limón",
             "desc": "Base crocante con relleno cremoso de limón y merengue.",
-            "imagen": "Imag\9_Pie de Limon.jpg"
+            "imagen": "Imag/9_Pie de Limon.jpg"
         },
         {
             "nombre": "Torta Helada",
