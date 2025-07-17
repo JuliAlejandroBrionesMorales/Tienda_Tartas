@@ -11,11 +11,11 @@ Una aplicación web hecha con ❤️ en Python y Streamlit, donde podrás descub
 
 | Inicio                                | Pasteles y Tartas                       |
 |---------------------------------------|----------------------------------------|
-| ![Inicio](https://github.com/JuliAlejandroBrionesMorales/Tienda_Tartas/blob/main/Imag/28_pagina_inicio.png) | ![Pasteles](Imag\29_pasteles y tartas.png) |
+| ![Inicio](https://github.com/JuliAlejandroBrionesMorales/Tienda_Tartas/blob/main/Imag/28_pagina_inicio.png) | ![Pasteles](https://github.com/JuliAlejandroBrionesMorales/Tienda_Tartas/blob/main/Imag/29_pasteles%20y%20tartas.png) |
 
 | Tartas de la Semana                   | Dulces Tradicionales                   |
 |---------------------------------------|----------------------------------------|
-| ![Tartas de la Semana](Imag\30_Pasteles_de_la_semana.png) | ![Dulces](Imag\31_Dulces_tradicionales.png) |
+| ![Tartas de la Semana](https://github.com/JuliAlejandroBrionesMorales/Tienda_Tartas/blob/main/Imag/30_Pasteles_de_la_semana.png) | ![Dulces](https://github.com/JuliAlejandroBrionesMorales/Tienda_Tartas/blob/main/Imag/31_Dulces_tradicionales.png) |
 
 ---
 
